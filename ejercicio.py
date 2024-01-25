@@ -10,7 +10,6 @@ if numero2 != 0:
 else:
     division = "No se puede dividir por cero."
 
-# Mostrar resultados
 print(f"Suma: {suma}")
 print(f"Resta: {resta}")
 print(f"Multiplicación: {multiplicacion}")
